@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBooks", "ApiBooks\ApiBooks.csproj", "{F5AC6D7F-0A15-4A55-9585-D8109DB894A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBooksClient", "ApiBooksClient\ApiBooksClient.csproj", "{529C5FCA-DBB9-496D-921B-E651A0591979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5AC6D7F-0A15-4A55-9585-D8109DB894A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AC6D7F-0A15-4A55-9585-D8109DB894A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AC6D7F-0A15-4A55-9585-D8109DB894A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AC6D7F-0A15-4A55-9585-D8109DB894A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529C5FCA-DBB9-496D-921B-E651A0591979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529C5FCA-DBB9-496D-921B-E651A0591979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529C5FCA-DBB9-496D-921B-E651A0591979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529C5FCA-DBB9-496D-921B-E651A0591979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1160A8F0-A651-4093-B7ED-7B56A1DE5849}
+	EndGlobalSection
+EndGlobal
